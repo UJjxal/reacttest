@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
     return (
@@ -10,7 +11,6 @@ function App() {
                     Edit <code>src/App.js</code> and save to reload.
                 </p>
                 Check me
-                Again
             </header>
         </div>
     );
